@@ -20,7 +20,7 @@ public class main {
 			
 			while(result.next()) {
 				
-				/* if the cllumn type is int use 'getInt() method'
+				/* if the collumn type is int use 'getInt() method'
 				else if is it string, plain text,email or varchar use the 'getString()' method  
 				You can add as many collum's you want */
 				
